@@ -9,6 +9,7 @@ import multer from "multer";
 const app = createServer()
 const port: number = 3000;
 
+
 app.listen(port, ()=> {
     // generateArtistArray().then((res)=> {
     //     logger.info('seeder',)
