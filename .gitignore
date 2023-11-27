@@ -1,0 +1,12 @@
+.idea
+build
+config
+!src/config
+node_modules
+public/images
+public/musics
+.env
+note-upload
+package-lock.json
+seeder.ts
+starlink.sql
